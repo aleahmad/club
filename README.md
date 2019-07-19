@@ -1,6 +1,8 @@
 # club
 Video Club software written in Delphi 7 distributed under MIT License.
 
+The user interface of the software is Persian. So, contribution for translating the UI is encouraged.
+
 Some features of the software are:
  - Can be used in all versions of Windows
  - Ability to assign code automatically to CDs and videos
@@ -24,5 +26,9 @@ Some features of the software are:
  - Ability to backup and restore data in case of failure, virus and ...
  - Ability to define rental term, separate rental cost of CDs and delay range
  - Used in various video clips and without flaws
- 
+  - Possibility to prepare an album report
+ - Label production with barcodes (usable by barcode readers)
+ - Ability to use multiple versions of the program on the network
+ - Ensure that there is no problem in the program (now this program is used in many centers and no problems have been reported)
+
 For more information please visit: http://abbasemails.blogfa.com/
