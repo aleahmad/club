@@ -1,5 +1,5 @@
 # club
-Video Club software written in Delphi 7 distributed under MIT License.
+Video Club software is written with Delphi 7 and distributed under MIT License.
 
 The user interface of the software is Persian. So, contribution for translating the UI is encouraged.
 
